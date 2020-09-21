@@ -4,7 +4,6 @@
 - 🌱 I am always learning new things to improve my skillset, such as npm, VueJS, Python
 - 🥅 2020 Goals: 
     - Upgrade [eSport's Results] to a whole new level with new technologies and personnal bundles
-    - Release a new version of [ScoopTurn] with a new design and new management features
 - 🎮 I am a fan of video games !
 
 <br/>

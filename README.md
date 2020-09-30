@@ -46,6 +46,6 @@
 
 [ScoopTurn]: https://www.scoopturn.com
 [eSport's Results]: https://matchs.p-lejeune.com
-[docker-devbox-ddb]: [https://github.com/gfi-centre-ouest/docker-devbox-ddb]
+[docker-devbox-ddb]: https://github.com/gfi-centre-ouest/docker-devbox-ddb
 [twitter]: https://twitter.com/dark_csgo
 [linkedin]: https://www.linkedin.com/in/pierre-lejeune/

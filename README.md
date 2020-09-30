@@ -1,6 +1,6 @@
 ### Hi there, I'm Pierre LEJEUNE - aka darkanakin41 👋
 
-- 🔭 I am currently working on few personnal projects such as [ScoopTurn], [eSport's Results] and [docker-devbox-ddb]!
+- 🔭 I am currently working on few personnal projects such as [ScoopTurn], [eSport's Results] and [docker-devbox-ddb] !
 - 🌱 I am always learning new things to improve my skillset, such as npm, VueJS, Python
 - 🥅 2020 Goals: 
     - Upgrade [eSport's Results] to a whole new level with new technologies and personnal bundles

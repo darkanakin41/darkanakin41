@@ -1,6 +1,6 @@
 ### Hi there, I'm Pierre LEJEUNE - aka darkanakin41 👋
 
-- 🔭 I am currently working on few personnal projects such as [ScoopTurn], [eSport's Results] and [docker-devbox-ddb] !
+- 🔭 I am currently working on few personnal projects such as [AlticaRP], [project-toolbox-cli] and others private !
 - 🌱 I am always learning new things to improve my skillset, such as npm, VueJS, Python
 - 🎮 I am a fan of video games !
 
@@ -43,7 +43,9 @@
 <img align="left" alt="Darkanakin41's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkanakin41&show_icons=true&hide_border=true" />
 
 [ScoopTurn]: https://www.scoopturn.com
+[AlticaRP]: https://alticarp.fr/
 [eSport's Results]: https://matchs.p-lejeune.com
 [docker-devbox-ddb]: https://github.com/inetum-orleans/docker-devbox-ddb
+[project-toolbox-cli]: https://github.com/darkanakin41/project-toolbox-cli
 [twitter]: https://twitter.com/lejeune_pierre
 [linkedin]: https://www.linkedin.com/in/pierre-lejeune/
